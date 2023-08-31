@@ -16,3 +16,8 @@ python -m pip install -r requirements.txt
 ```
 
 
+1. Add directory /data
+2. Unzip
+3. cmd cd data_gen
+4. cmd python ntu_gendata.py
+5. 
