@@ -16,3 +16,24 @@ python -m pip install -r requirements.txt
 ```
 
 
+1. git clone
+2. conda create
+3. install requirements
+4. Add directory /data
+#### Directory Structure
+
+Put downloaded data into the following directory structure:
+
+```
+- data/
+  - nturgbd_raw/
+    - nturgbd_skeletons_s001_to_s017/     # from `nturgbd_skeletons_s001_to_s017.zip`
+    - samples_with_missing_skeletons.txt
+```
+
+5. Unzip data
+6. Open cmd/termminal
+7. cd data_gen
+8. python ntu_gendata.py
+9. python train_action_pre_atu.py
+10. 
