@@ -15,7 +15,7 @@ pip freeze --all > requirements.txt
 python -m pip install -r requirements.txt
 ```
 
-
+```2s-AAGCN Part```
 1. git clone
 2. conda create
 3. install requirements
@@ -37,3 +37,12 @@ Put downloaded data into the following directory structure:
 8. python ntu_gendata.py
 9. python train_action_pre_atu.py
 10. 
+
+
+```MS-G3D Part```
+1. cd project folder
+2. git clone https://github.com/NVIDIA/apex
+3. cd apex
+4. pip install -v --disable-pip-version-check --no-build-isolation --no-cache-dir ./
+5. 
+
