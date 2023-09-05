@@ -1,7 +1,7 @@
 # VA+RICH5+MS-G3D_EF (1s)
-*(Draft)*
 
-**Author:** Jakarin Chonchumrus      **Supervisor:**
+
+**Author:** Jakarin Chonchumrus      **Supervisor:** Wen-Nung Lie *(Draft)*
 
 *Conda Technique*
 ```
