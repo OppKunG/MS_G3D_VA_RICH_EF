@@ -1,7 +1,0 @@
-einops
-git+https://github.com/SymenYang/DLNest.git
-PyYAML
-tensorboardX
-tqdm
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
-scikit-learn
